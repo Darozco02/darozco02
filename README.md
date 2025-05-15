@@ -1,20 +1,20 @@
-<h1 align="left">Daniel Orozco</h1>
+<h1 align="left">Hi There! 👋</h1>
 
 ###
 
-<p align="left">Hola! Mi nombre es Daniel y soy de Costa Rica</p>
+<p align="left">My name is Daniel and I am from Costa Rica!</p>
 
 ###
 
-<h2 align="left">Sobre Mi</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Estudio Ingenieria en Desarrollo de Software, actualmente me enfoco en el desarrollo web!</p>
+<p align="left">Studying programming since 2022 <br>📚 I'm currently learning Software Engineering <br>🎯 Goals: Learn and be a master on Phyton for web development</p>
 
 ###
 
-<h2 align="left">Programo Con</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
