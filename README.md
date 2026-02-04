@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniel and I am from Costa Rica!</p>
+<p align="left">My name is Daniel. I am a software engineer student!💻</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Studying programming since 2022 <br>📚 I'm currently learning Software Engineering <br>🎯 Goals: Learn and be a master on Phyton for web development</p>
+<p align="left">Studying programming since 2023 <br>📚 I'm currently learning Software Engineering <br>🎯 Goals: Learn different skills to become a FullStack developer.</p>
 
 ###
 
