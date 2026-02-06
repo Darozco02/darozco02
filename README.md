@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Daniel. I am a software engineer student!💻</p>
+<p align="left">My name is Daniel. I am a software engineer student!💻 <br>
+Software Development student with 2 years of experience in Java, HTML, CSS, and JavaScript. Proficient with JIRA in agile environments. Detail-oriented with strong analytical skills, eager to transition into QA.</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">Studying programming since 2023 <br>📚 I'm currently learning Software Engineering <br>🎯 Goals: Learn different skills to become a FullStack developer.</p>
+<p align="left">Studying programming since 2023 <br>📚 I'm currently learning Software Engineering!</p>
 
 ###
 
@@ -28,8 +29,6 @@
   <!--JavaScript-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
 ###
